@@ -36,3 +36,5 @@ Copy and paste my code into the txt file
 Save > Exit > Right click your script on the desktop > Run
 
 There you go!
+
+Next time you load into champ select simply click the "Search" bar and press the key that corresponds with whatever lane you are in!
