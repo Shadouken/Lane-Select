@@ -17,5 +17,5 @@ I left out an ADC script due to the fact that there is already a "Marskman" tab 
 However, to make up for this I created a script that filters out your preferred champions. 
 (Example of why you would want to edit the program)
 
-Understanding this program is relateively simple.
+Understanding this program is relatively simple. All you have to do is replace a few lines of code :)
 
