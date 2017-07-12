@@ -20,6 +20,7 @@ However, to make up for this I created a script that filters out your preferred 
 Understanding this program is relatively simple. All you have to do is replace a few lines of code :)
 
 
+
 Instructions
 
 To start off, Download AutoHotKey.
