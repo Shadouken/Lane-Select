@@ -19,3 +19,12 @@ However, to make up for this I created a script that filters out your preferred 
 
 Understanding this program is relatively simple. All you have to do is replace a few lines of code :)
 
+Instructions
+
+To start off, Download AutoHotKey.
+After downloaded, Right-Click your desktop
+Select New > Autohotkey Script
+Name it whatever you want (Doesn't matter)
+Copy and paste my code into the txt file
+Save > Exit > Right click your script on the desktop > Run
+There you go!
