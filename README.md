@@ -6,8 +6,8 @@ Hello. Welcome to my simple, but effective, program. Feel free to modify in any 
 This program runs using AutoHotKey. https://autohotkey.com/ 
 It is a simple and free program that allows user to create simple text scripts.
 
-Now even though this is a "Script" it is not a bannable offense. (I'm like 98% sure)
-It provides no advantage for gameplay at all, it is merely a champ select filtering tool.
+Now even though this is a "Script" it is not a bannable offense.
+It provides no advantage for gameplay at all, it is merely a champion select filtering tool.
 
 There are very few controls you need to know/understand to use this program effectively.
 The program comes pre-programmed to use the F1-F5 Keys, you can change them easily if you'd like.
